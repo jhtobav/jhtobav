@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhtobav
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning kafka, kafka connect and kafka streams.
+- 🌱 I’m working in kafka, kafka connect and kafka streams.
 - 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me ...
 
